@@ -1,0 +1,155 @@
+{
+    "0.0": {
+        "leak_pct": 0.0,
+        "d_eff_mm": 0.0,
+        "q_meas_mean_lpm": 5.240937535555808,
+        "q_iso_mean_lpm": 5.240000000000001,
+        "power_meas_mean_W": 66.62274946903327,
+        "power_iso_mean_W": 67.92275381620968,
+        "sat_pct": 32.72926385254296
+    },
+    "6.25": {
+        "leak_pct": 6.25,
+        "d_eff_mm": 1.0,
+        "q_meas_mean_lpm": 5.156582091250426,
+        "q_iso_mean_lpm": 10.733027335260838,
+        "power_meas_mean_W": 65.57539210376606,
+        "power_iso_mean_W": 139.25973408890115,
+        "sat_pct": 32.068494709295706
+    },
+    "12.5": {
+        "leak_pct": 12.5,
+        "d_eff_mm": 1.4142135623730954,
+        "q_meas_mean_lpm": 5.58568665377176,
+        "q_iso_mean_lpm": 16.194597343785126,
+        "power_meas_mean_W": 70.89096252702241,
+        "power_iso_mean_W": 209.53369632721598,
+        "sat_pct": 34.776993969734896
+    },
+    "18.75": {
+        "leak_pct": 18.75,
+        "d_eff_mm": 1.7320508075688772,
+        "q_meas_mean_lpm": 16.0,
+        "q_iso_mean_lpm": 21.484753065096367,
+        "power_meas_mean_W": 204.60191997602385,
+        "power_iso_mean_W": 274.8055233214314,
+        "sat_pct": 100.0
+    },
+    "25.0": {
+        "leak_pct": 25.0,
+        "d_eff_mm": 2.0,
+        "q_meas_mean_lpm": 16.0,
+        "q_iso_mean_lpm": 26.491419330615543,
+        "power_meas_mean_W": 200.7454890127811,
+        "power_iso_mean_W": 332.45991293753923,
+        "sat_pct": 100.0
+    },
+    "31.25": {
+        "leak_pct": 31.25,
+        "d_eff_mm": 2.23606797749979,
+        "q_meas_mean_lpm": 16.0,
+        "q_iso_mean_lpm": 29.956883145417567,
+        "power_meas_mean_W": 186.7848059164865,
+        "power_iso_mean_W": 350.86781846695555,
+        "sat_pct": 100.0
+    },
+    "37.5": {
+        "leak_pct": 37.5,
+        "d_eff_mm": 2.449489742783178,
+        "q_meas_mean_lpm": 16.0,
+        "q_iso_mean_lpm": 36.16857904264705,
+        "power_meas_mean_W": 194.7720174291939,
+        "power_iso_mean_W": 440.53277794046494,
+        "sat_pct": 100.0
+    },
+    "43.75": {
+        "leak_pct": 43.75,
+        "d_eff_mm": 2.6457513110645903,
+        "q_meas_mean_lpm": 16.0,
+        "q_iso_mean_lpm": 40.778914237884,
+        "power_meas_mean_W": 191.8332836753012,
+        "power_iso_mean_W": 489.696265233822,
+        "sat_pct": 100.0
+    },
+    "50.0": {
+        "leak_pct": 50.0,
+        "d_eff_mm": 2.8284271247461903,
+        "q_meas_mean_lpm": 16.0,
+        "q_iso_mean_lpm": 44.67355748451786,
+        "power_meas_mean_W": 186.2489431315048,
+        "power_iso_mean_W": 521.4156336767501,
+        "sat_pct": 100.0
+    },
+    "56.25": {
+        "leak_pct": 56.25,
+        "d_eff_mm": 3.0,
+        "q_meas_mean_lpm": 16.0,
+        "q_iso_mean_lpm": 49.09154554145722,
+        "power_meas_mean_W": 184.10273511586453,
+        "power_iso_mean_W": 567.5108144923436,
+        "sat_pct": 100.0
+    },
+    "62.5": {
+        "leak_pct": 62.5,
+        "d_eff_mm": 3.1622776601683795,
+        "q_meas_mean_lpm": 16.0,
+        "q_iso_mean_lpm": 54.67493810097804,
+        "power_meas_mean_W": 186.78923358499202,
+        "power_iso_mean_W": 639.5542606757072,
+        "sat_pct": 100.0
+    },
+    "68.75": {
+        "leak_pct": 68.75,
+        "d_eff_mm": 3.3166247903554,
+        "q_meas_mean_lpm": 16.0,
+        "q_iso_mean_lpm": 58.11459430056925,
+        "power_meas_mean_W": 181.62357019914518,
+        "power_iso_mean_W": 661.8361380163909,
+        "sat_pct": 100.0
+    },
+    "75.0": {
+        "leak_pct": 75.0,
+        "d_eff_mm": 3.464101615137755,
+        "q_meas_mean_lpm": 16.0,
+        "q_iso_mean_lpm": 63.20755888652008,
+        "power_meas_mean_W": 182.52468653999316,
+        "power_iso_mean_W": 723.9370328415706,
+        "sat_pct": 100.0
+    },
+    "81.25": {
+        "leak_pct": 81.25,
+        "d_eff_mm": 3.605551275463989,
+        "q_meas_mean_lpm": 16.0,
+        "q_iso_mean_lpm": 65.6101146811294,
+        "power_meas_mean_W": 175.4674214371092,
+        "power_iso_mean_W": 724.0360313227684,
+        "sat_pct": 100.0
+    },
+    "87.5": {
+        "leak_pct": 87.5,
+        "d_eff_mm": 3.7416573867739413,
+        "q_meas_mean_lpm": 16.0,
+        "q_iso_mean_lpm": 71.08764568122628,
+        "power_meas_mean_W": 177.71744528779254,
+        "power_iso_mean_W": 794.5527894419923,
+        "sat_pct": 100.0
+    },
+    "93.75": {
+        "leak_pct": 93.75,
+        "d_eff_mm": 3.872983346207417,
+        "q_meas_mean_lpm": 16.0,
+        "q_iso_mean_lpm": 76.67347357866676,
+        "power_meas_mean_W": 179.94026484963487,
+        "power_iso_mean_W": 864.8521543180706,
+        "sat_pct": 100.0
+    },
+    "100.0": {
+        "leak_pct": 100.0,
+        "d_eff_mm": 4.0,
+        "q_meas_mean_lpm": 14.802139037433156,
+        "q_iso_mean_lpm": 62.20328136447588,
+        "power_meas_mean_W": 132.49897170311593,
+        "power_iso_mean_W": 675.9700239525909,
+        "sat_pct": 85.02673796791443
+    }
+}

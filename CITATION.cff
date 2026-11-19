@@ -1,0 +1,13 @@
+cff-version: 1.2.0
+message: "If you use this code or data, please cite the paper."
+title: "Physics-Aware Machine Learning for Saturation-Robust Leak Sizing in Pneumatic Actuators"
+type: software
+authors:
+  - given-names: "Divya"
+  - given-names: "Harman Preet"
+    family-names: "Singh"
+  - given-names: "Anant Kumar"
+    family-names: "Singh"
+repository-code: "https://github.com/divya5-11-04/saturation-robust-leak-sizing"
+license: MIT
+date-released: "2026-11-19"

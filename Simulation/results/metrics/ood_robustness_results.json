@@ -1,0 +1,22 @@
+{
+    "PI-DTNet (Proposed)": {
+        "Clean_Acc": 42.857142857142854,
+        "Harsh_Acc": 42.857142857142854,
+        "Degradation": 0.0
+    },
+    "Ablation 1 (w/o Phys Loss)": {
+        "Clean_Acc": 42.857142857142854,
+        "Harsh_Acc": 42.857142857142854,
+        "Degradation": 0.0
+    },
+    "1D-CNN": {
+        "Clean_Acc": 71.42857142857143,
+        "Harsh_Acc": 71.42857142857143,
+        "Degradation": 0.0
+    },
+    "LSTM": {
+        "Clean_Acc": 57.14285714285714,
+        "Harsh_Acc": 57.14285714285714,
+        "Degradation": 0.0
+    }
+}
