@@ -58,7 +58,7 @@ Run the hardware scripts from `Hardware/`. See `Hardware/README.md` for every co
 `Hardware/hardware_dataset/` holds 105 runs of pressure and flow signals. See `Hardware/hardware_dataset/DATA_README.md` for the columns and file naming.
 
 ## Citation
-If you use this repository, please cite the paper. See `CITATION.cff`. An archived release is on Zenodo: DOI 10.5281/zenodo.XXXXXXX.
+If you use this repository, please cite the paper. See `CITATION.cff`. An archived release is on Zenodo: [DOI 10.5281/zenodo.24368156](https://doi.org/10.5281/zenodo.24368156).
 
 ## License
 Code: MIT (see `LICENSE`). Data in `Hardware/hardware_dataset/`: CC-BY 4.0.
